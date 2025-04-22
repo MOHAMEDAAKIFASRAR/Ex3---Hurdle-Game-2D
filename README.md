@@ -28,7 +28,7 @@ Run the scene and display the output.
 ## PROGRAM:
 
 ### PLAYERSCRIPT.CS
-
+```
 using System.Collections;
 using System.Collections.Generic;
 using System.Security.Cryptography;
@@ -66,10 +66,11 @@ public class player : MonoBehaviour
         }
     }
 }
-
+```
 
 ### COINMANAGER.CS
 
+```
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -92,6 +93,7 @@ public class Score : MonoBehaviour
     }
 }
 
+```
 
 ## OUTPUT:
 ![alt text](output-ex03-vrar.jpg)
