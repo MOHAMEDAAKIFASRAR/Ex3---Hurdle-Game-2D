@@ -97,6 +97,7 @@ public class Score : MonoBehaviour
 
 ## OUTPUT:
 ![alt text](output-ex03-vrar.jpg)
+![alt text](output2_vrar.jpg)
 
 ## RESULT:
 
